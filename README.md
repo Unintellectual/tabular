@@ -1,8 +1,5 @@
 # Gotabular - Easily pretty-print tabular data
 
-[![GoDoc](https://godoc.org/github.com/bndr/gotabular?status.svg)](https://godoc.org/github.com/bndr/gotabular)
-[![Build Status](https://travis-ci.org/bndr/gotabular.svg?branch=master)](https://travis-ci.org/bndr/gotabular)
-
 ## Summary
 
 Tabular - Generic Go Library for easy pretty-printing of tabular data.
