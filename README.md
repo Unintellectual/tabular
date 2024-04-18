@@ -1,4 +1,4 @@
-# Gotabular - Easily pretty-print tabular data
+# tabular - Easily pretty-print tabular data
 
 ## Summary
 
